@@ -1,0 +1,25 @@
+{
+    "name": "MOGA",
+    "type": "ERC20",
+    "symbol": "MOGA",
+    "decimals": 18,
+    "website": "https://moga.digital",
+    "description": "MOGA si dedica a democratizzare la comprensione e l'utilizzo dell'intelligenza artificiale. Il progetto è incentrato sull'istruzione e l'educazione, aperto a tutti per promuovere la curiosità e la conoscenza delle potenzialità dell'AI.",
+    "explorer": "https://polygonscan.com/token/0x0fee32332c266f4bb35d2034551127c7f0fb691b",
+    "status": "active",
+    "id": "0x0fee32332c266f4bb35d2034551127c7f0fb691b",
+    "compilerVersion": "v0.8.23+commit.f704f362",
+    "license": "MIT",
+    "otherSettings": {
+        "optimization": true,
+        "runs": 200,
+        "evmVersion": "paris"
+    },
+    "links": [
+        {
+            "name": "website",
+            "url": "https://moga.digital"
+        }
+        // Altri link possono essere aggiunti qui
+    ]
+}
